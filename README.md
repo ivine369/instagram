@@ -20,11 +20,6 @@ Django
 HTML & CSS(Bootstrap)
 Javascript
 
-## Behaviour Driven Development(BDD)
-Behaviour	Input	Output
-to add post	 click on sign up	 fill in the registration field
-to intract with app	 click on login	 fill in the field and submit
-
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns.Contact me or make a contribution to the code.You can access me via my email denisnyamweya813@gmail.com.
 
