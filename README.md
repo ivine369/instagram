@@ -3,6 +3,7 @@ It is a clone of the popular website (Instagram) used for posting photos.
 
 ### By Ivine Kemuma
 
+
 ## Description
 This is a clone of the website for the popular photo app,Instagram.It has the features of following,unfollowing,liking,unliking,commenting and seeing other peoples profiles and stories.
 
@@ -11,7 +12,7 @@ This is a clone of the website for the popular photo app,Instagram.It has the fe
 
 *cd Instagram
 
-*Install dependencies "pip install -r requirements.txt"
+*pip install -r requirements.txt
 
 *Run the application "python manage.py runserver"
 
@@ -21,7 +22,9 @@ There are no issues that have  been resolved and incase of a bug,let users know 
 ### Technologies Used
 *Django
 
-*HTML & CSS(Bootstrap)
+*HTML 
+
+*CSS(Bootstrap)
 
 *Javascript
 
