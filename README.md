@@ -13,7 +13,7 @@ This is a clone of the website for the popular photo app,Instagram.It has the fe
 
 *Install dependencies "pip install -r requirements.txt"
 
-*Run the application python manage.py runserver
+*Run the application "python manage.py runserver"
 
 ## Known Bugs
 There are no issues that have not yet been resolved and incase of a bug let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place.
