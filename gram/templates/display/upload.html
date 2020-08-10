@@ -16,7 +16,8 @@
             <br> {{ field }}
             <br> {% for error in field.errors %}
             <p style="color: red">{{ error }}</p>
-            {% endfor %} {% if field.help_text %}
+            {% endfor %} 
+            {% if field.help_text %}
             <p>
                 <small style="color: grey">{{ field.help_text }}</small>
             </p>
@@ -24,7 +25,7 @@
         </p>
         {% endfor %}
         <button type="submit">Post</button>
-        
+
 
     </form>
 

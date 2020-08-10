@@ -1,5 +1,6 @@
- 
-{%extends "registration/base.html"%} {% load bootstrap3 %} {% block content %}
+{%extends "registration/base.html"%} 
+{% load bootstrap3 %}
+{% block content %}
 <div class="container">
     <div class="logincont">
         <!-- Image beside Login-Form -->
@@ -13,12 +14,13 @@
             {% if form.errors %}
             <p > Password or Username is incorrect </p>
             {% endif %}
-            
+
             <!--Collapse Output to Display error in login -->
         
 
             <!-- BootStrap class to add border to login form -->
             <div  class="panel panel-default">
+                
 
                 <!-- Instagram image at the top of Login form -->
                     <img src="../../static/images/instalogo.jpeg" alt="signuplogo " style="width:250px; height:80px;margin: 5px auto; display: block;">

@@ -1,6 +1,6 @@
 # Django Instagram Clone
 
-It is a clone of the popular website (Instagram) used for posting photos.
+It is a clone of the popular website (Instagram) used for posting photos
 
 ### By Ivine Kemuma
 
