@@ -1,9 +1,8 @@
 # Django Instagram Clone
 
-It is a clone of the popular website (Instagram) used for posting photos
+It is a clone of the popular website (Instagram) used for posting photos.
 
 ### By Ivine Kemuma
-
 
 ## Description
 This is a clone of the website for the popular photo app,Instagram.It has the features of following,unfollowing,liking,unliking,commenting and seeing other peoples profiles and stories.
@@ -18,7 +17,7 @@ This is a clone of the website for the popular photo app,Instagram.It has the fe
 *Run the application "python manage.py runserver"
 
 ## Known Bugs
-There are no issues that have  been resolved and incase of a bug,let users know and also outline any issues that would impact use of your application. Share any solutions that are in place.
+There are no issues that have  been resolved and incase of a bug,let users know and also outline any issues that would impact use of your application. Share any solutions that are in place
 
 ## Technologies Used
 *Django
