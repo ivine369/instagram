@@ -19,7 +19,7 @@ This is a clone of the website for the popular photo app,Instagram.It has the fe
 ## Known Bugs
 There are no issues that have  been resolved and incase of a bug,let users know and also outline any issues that would impact use of your application. Share any solutions that are in place.
 
-### Technologies Used
+## Technologies Used
 *Django
 
 *HTML 
