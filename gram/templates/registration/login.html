@@ -1,11 +1,13 @@
-{%extends "registration/base.html"%} {% load bootstrap3 %} {% block content %}
+{%extends "registration/base.html"%}
+{% load bootstrap3 %}
+{% block content %}
 <div class="container">
     <div class="logincont">
         <!-- Image beside Login-Form -->
         
         <div class="loginimage">
             <img src="../../static/images/instapic2.png " alt="instagram login phone ">
-            
+
         </div>
         
         <!-- Output to Display error in login -->
@@ -28,7 +30,8 @@
                 <div class="panel-body">
 
                     <form action="/accounts/login/" method="post">
-                        {% csrf_token %} {% bootstrap_form form%}
+                        {% csrf_token %} 
+                        {% bootstrap_form form%}
 
                         <div class="form-group">
                             <input type="submit" class="btn btn-primary btn-lg btn-block" value="Login">
