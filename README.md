@@ -5,7 +5,7 @@ It is a clone of the popular website (Instagram) used for posting photos.
 ### By Ivine Kemuma
 
 ## Description
-This is a clone of the website for the popular photo app,Instagram.It has the features of following,unfollowing,liking,unliking,commenting and seeing other peoples profiles and stories
+This is a clone of the website for the popular photo app,Instagram.It has the features of following,unfollowing,liking,unliking,commenting and seeing other peoples profiles and stories.
 
 ## Setup/Installation Requirements
 *git clone https://github.com/ivine369/instagram
