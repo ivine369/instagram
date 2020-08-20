@@ -31,7 +31,6 @@ There are no issues that have  been resolved and incase of a bug,let users know 
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns.Contact me or make a contribution to the code.You can access me via my email ivinekemuma014@gmail.com
 
-
 ## License
 
 License
